@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#product {
+    .product-item {
+        img {
+            height: 200px;
+            object-fit: contain;
+        }
+    }
+}
